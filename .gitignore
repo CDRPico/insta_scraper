@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.pyo
+*.pyz
+*.pickle
+*.egg
+*.egg-info/
+*.venv/
+dist/
+build/
+*.so
+
+# Selenium
+geckodriver.log
+chromedriver.log
+*.lock
+
+# dotenv
+.env
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+*.bak
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
